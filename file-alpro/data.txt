@@ -1,0 +1,9 @@
+mtk
+kimia
+fisika
+biologi
+ekonomi
+bahasa inggris
+bahasa indonesia
+akuntansi
+geografi

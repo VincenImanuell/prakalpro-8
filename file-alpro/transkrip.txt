@@ -1,0 +1,24 @@
+Struktur Data
+3
+B
+Sistem Basis Data
+3
+E
+Pendidikan Agama Kristen
+3
+A
+Tugas Akhir
+6
+A
+Rekayasa Perangkat Lunak Berorientasi Obyek
+5
+C
+Seminar
+1
+A
+Interaksi Manusia dan Komputer
+3
+E
+Kuliah Kerja Nyata
+3
+B
